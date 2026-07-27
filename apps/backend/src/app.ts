@@ -22,7 +22,7 @@ app.post("/video", (req, res) => {
 })
 app.get("/video:videoId", (req, res) => {
     
-})
+}) 
 app.get("/me", (req, res) => {
     
 })
